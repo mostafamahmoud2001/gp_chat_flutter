@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991988478835",
+    "project_id": "voicey-c7ef0",
+    "storage_bucket": "voicey-c7ef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991988478835:android:2a2267f0ad6a25240b0b06",
+        "android_client_info": {
+          "package_name": "com.example.gp_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991988478835-1scqq5mt1cnp5pes0b37f9jhdaigi3hd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4R0_YNC8vTiMgYtxQ7F5YyreSjfhVmxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991988478835-1scqq5mt1cnp5pes0b37f9jhdaigi3hd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
